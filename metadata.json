@@ -1,0 +1,6 @@
+{
+  "name": "Macro-Financial News & Sentiment Tracker",
+  "description": "Bloomberg-style macro-financial news monitor and sentiment analyzer with Google Sheets export for portfolio managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
